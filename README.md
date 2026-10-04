@@ -1,4 +1,4 @@
-# Hi, I'm Valerii Kalienich(Ingrill) 👋
+# Hi, I'm Valerii Kalienich 👋
 
 I am a **Naval Architect & Marine Engineer (M.S.)** transitioning into **Go Backend Engineering**.
 
