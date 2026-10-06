@@ -15,7 +15,8 @@ I am a **Naval Architect & Marine Engineer (M.S.)** transitioning into **Go Back
 ## 🎓 Learning & Growth
 
 - **Current Focus:** Advanced Distributed Systems, Microservices Architecture & RabbitMQ.
-- **Current Track:** Backend Development Path on [Boot.dev](https://www.boot.dev/u/Ingrill).
+- **Current Track:** DevOps Development Path on [Boot.dev](https://www.boot.dev/u/Ingrill).
+- **Completed Tracks:** Backend Development Path on [Boot.dev](https://www.boot.dev/u/Ingrill).
 
 ---
 
